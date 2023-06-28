@@ -1,0 +1,14 @@
+* {
+	margin:0;
+	padding:0;
+  	box-sizing:border-box;
+  }
+ h1 {
+		color: red;
+		font-size:50px;
+ }
+ div p {
+		color:green;
+	}
+div>p{background-color:red;}	
+div+p{color:blue;}
